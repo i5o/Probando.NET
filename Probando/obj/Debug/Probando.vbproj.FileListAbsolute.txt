@@ -1,0 +1,12 @@
+C:\Users\Ignacio\Documents\GitHub\Probando.NET\Probando\bin\Debug\Probando.exe.config
+C:\Users\Ignacio\Documents\GitHub\Probando.NET\Probando\bin\Debug\Probando.exe
+C:\Users\Ignacio\Documents\GitHub\Probando.NET\Probando\bin\Debug\Probando.pdb
+C:\Users\Ignacio\Documents\GitHub\Probando.NET\Probando\bin\Debug\Probando.xml
+C:\Users\Ignacio\Documents\GitHub\Probando.NET\Probando\obj\Debug\Probando.Resources.resources
+C:\Users\Ignacio\Documents\GitHub\Probando.NET\Probando\obj\Debug\Probando.vbproj.GenerateResource.Cache
+C:\Users\Ignacio\Documents\GitHub\Probando.NET\Probando\obj\Debug\Probando.exe
+C:\Users\Ignacio\Documents\GitHub\Probando.NET\Probando\obj\Debug\Probando.xml
+C:\Users\Ignacio\Documents\GitHub\Probando.NET\Probando\obj\Debug\Probando.pdb
+C:\Users\Ignacio\Documents\GitHub\Probando.NET\Probando\obj\Debug\Probando.vbprojResolveAssemblyReference.cache
+C:\Users\Ignacio\Documents\GitHub\Probando.NET\Probando\obj\Debug\Probando.frmLogin.resources
+C:\Users\Ignacio\Documents\GitHub\Probando.NET\Probando\obj\Debug\Probando.frmRegistro.resources
